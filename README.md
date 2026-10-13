@@ -1,10 +1,4 @@
 # rag-handson-cortex-search
-
-削除せず、参加者向けの手順を書いておくほうがいいです。リポジトリを開いたときに最初に目に入る場所なので、Notebook のダウンロード方法を1画面で伝えられます。
-
-以下の内容でよければ、GitHub の README.md を編集してください。
-
-```markdown
 # 設備保全ドキュメントで作る RAG ハンズオン
 
 Snowflake Cortex Search を使って、PDF の非構造化データ（テキスト＋画像）から検索・回答できる RAG を構築するハンズオンです。
